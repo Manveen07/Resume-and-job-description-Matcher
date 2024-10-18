@@ -3,6 +3,7 @@
 In this project, we developed a system to match resumes to a job posting and identify the most relevant
 resumes using Gen-AI tools in Python. The objective is to simulate a real-world scenario where recruiters
 need to filter through multiple resumes to find the best candidates for a given job.
+
 The resumes are scored based on how well they align with the job description. The scoring criteria are
 as follows:
 • 10: Not relevant to the job description.
