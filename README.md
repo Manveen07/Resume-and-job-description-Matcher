@@ -12,5 +12,7 @@ as follows:
 • 0: Highly relevant and well-matched with the job requirements.
 Each resume was scored on these criteria, and the final scores were used to rank the resumes.
 ![image](https://github.com/user-attachments/assets/e74aad64-a5d9-483e-9efc-6229e0e8435e)
+![image1](https://github.com/user-attachments/assets/cd17e166-ea08-4b48-95cf-155e0431b917)
+
 
 
