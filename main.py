@@ -6,7 +6,7 @@ import google.generativeai as genai
 
 
 
-os.environ["Goofle_api_key"]="AIzaSyBmU0samAv-uqd3icROONiiLl3vL_OnTbA"
+os.environ["Goofle_api_key"]="your api key"
 genai.configure(api_key=os.environ["Goofle_api_key"])
 """models/gemini-1.0-pro-latest
 models/gemini-1.0-pro
